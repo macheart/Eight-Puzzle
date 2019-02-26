@@ -1,4 +1,4 @@
-# bookish-engine
+# Eight-Puzzle
 Shout out to my project partner s.x.
 
 We worked on a python based object-oriented program for a computer science course. 
